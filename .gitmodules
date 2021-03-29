@@ -1,0 +1,3 @@
+[submodule "Programming-ITMO"]
+	path = Programming-ITMO
+	url = https://github.com/rikine/Programming-ITMO.git
